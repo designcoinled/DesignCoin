@@ -58,7 +58,7 @@ Demon status:
 ### Table of Block Rewards
 
 <table>
-<th>Block Height</th><th>Collateral</th>
+<th>Block Height</th><th>Reward</th>
 <tr><td>0 - 7000</td><td>2 SIGN</td></tr>
 <tr><td>7001 - 70000</td><td>20 SIGN</td></tr>
 <tr><td>70001 - 1700000</td><td>10 SIGN</td></tr>
